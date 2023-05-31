@@ -18,9 +18,19 @@
 
 ## Proyectos ABP
 
+#### En esta sección, presento tres proyectos que hemos realizado como parte del curso de Aprendizaje Basado en Proyectos (ABP) en DAM2.
+
+<br>
+
   ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proyecto Android
+  
+  #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En este proyecto de Android, nos enfocamos en el desarrollo de una aplicación que se centra en los lanzamientos de sneakers con gran demanda y exclusividad. Estos sneakers suelen ser difíciles de obtener debido a su disponibilidad limitada y alta demanda. Con esta aplicación, miles de personas podrán mantenerse informadas sobre los lanzamientos de sus pares de sneakers favoritos. Resolvemos el problema de perderse estos lanzamientos y brindamos a los usuarios la oportunidad de obtener sus sneakers deseados.
+  
+  <br>
 
   ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proyecto de ERP
+  
+  <br>
 
   ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proyecto de Unity3D
 
