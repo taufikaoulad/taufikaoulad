@@ -30,9 +30,12 @@
 ### Link Memoria proyecto - [Memoria SNKRZ](https://docs.google.com/document/d/1p8up5W-enFxKP41iaiupS8-GkX5WdnZQmVymmr18QkY/edit#heading=h.z3g0ja82qn1e)
 
 ### Link APP - [Google Play SNKRZ](https://play.google.com/store/apps/details?id=cat.copernic.taufik.snkrz)
+
+### IMAGENES APP SNKRZ
   
- 
-  ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/2406a567-86b1-4cb4-8ce1-f1ddb5cd091a)
+  ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/924d8234-3b0a-47bf-ab36-cd52cda6f06e)![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/9edee3b7-cd36-4a2c-baee-f17582057120)
+
+
 
 <br>
 
