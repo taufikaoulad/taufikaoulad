@@ -7,6 +7,8 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Mi pasión por la programación me ha llevado a adquirir conocimientos en diversos lenguajes y tecnologías.
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 Siempre estoy buscando nuevas oportunidades para aprender y crecer como desarrollador.
 
+###Contacto: taufikaoulad@gmail.com
+
 <br>
 
 ## Lenguajes y Tecnologías
