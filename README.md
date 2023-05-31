@@ -26,17 +26,15 @@
 ### Descripción:  
 ####  En este proyecto de Android, nos enfocamos en el desarrollo de una aplicación que se centra en los lanzamientos de sneakers con gran demanda y exclusividad. Estos sneakers suelen ser difíciles de obtener debido a su disponibilidad limitada y alta demanda. Con esta aplicación, miles de personas podrán mantenerse informadas sobre los lanzamientos de sus pares de sneakers favoritos. Resolvemos el problema de perderse estos lanzamientos y brindamos a los usuarios la oportunidad de obtener sus sneakers deseados.
 
-<br>
 
 ### Link Memoria proyecto - [Memoria SNKRZ](https://docs.google.com/document/d/1p8up5W-enFxKP41iaiupS8-GkX5WdnZQmVymmr18QkY/edit#heading=h.z3g0ja82qn1e)
-
-<br>
 
 ### Link APP - [Google Play SNKRZ](https://play.google.com/store/apps/details?id=cat.copernic.taufik.snkrz)
   
  
-  
+  ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/2406a567-86b1-4cb4-8ce1-f1ddb5cd091a)
 
+<br>
 
   ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proyecto de ERP
   
