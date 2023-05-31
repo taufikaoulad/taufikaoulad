@@ -31,9 +31,13 @@
 
 ### Link APP - [Google Play SNKRZ](https://play.google.com/store/apps/details?id=cat.copernic.taufik.snkrz)
 
-### IMAGENES APP SNKRZ
+### Imagenes APP SNKRZ: 
+![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/42765448-55f7-45b8-ba71-ce6dba594bc6) ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/4869c7b6-4ec4-432d-8046-e93641e23bc6) ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/1a77895d-0be0-4e98-ac43-83c1ef5519cd)
+
+
+
   
-![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/e7a933c7-7059-43d4-afe2-16913bc9ebc7)
+
 
 
 
