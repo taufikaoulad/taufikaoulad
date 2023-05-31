@@ -2,10 +2,10 @@
 
 ### ¡Bienvenido/a a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos y contribuciones relacionadas con el desarrollo de aplicaciones. Permíteme presentarme y compartir un poco acerca de mí.
 
-#### &nbsp; 👨‍💻 Soy Taufik Aoulad, un desarrollador de aplicaciones en formación. 
-#### &nbsp; 📚 Actualmente, estoy cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma en el Nicolau Copernic.
-#### 💻 Mi pasión por la programación me ha llevado a adquirir conocimientos en diversos lenguajes y tecnologías.
-#### 🌱 Siempre estoy buscando nuevas oportunidades para aprender y crecer como desarrollador.
+#### &nbsp;&nbsp;&nbsp; 👨‍💻 Soy Taufik Aoulad, un desarrollador de aplicaciones en formación. 
+#### &nbsp;&nbsp;&nbsp; 📚 Actualmente, estoy cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma en el Nicolau Copernic.
+#### &nbsp;&nbsp;&nbsp; 💻 Mi pasión por la programación me ha llevado a adquirir conocimientos en diversos lenguajes y tecnologías.
+#### &nbsp;&nbsp;&nbsp; 🌱 Siempre estoy buscando nuevas oportunidades para aprender y crecer como desarrollador.
 
 <br>
 
