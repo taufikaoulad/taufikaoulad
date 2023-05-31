@@ -7,7 +7,7 @@
 #### 💻 Mi pasión por la programación me ha llevado a adquirir conocimientos en diversos lenguajes y tecnologías.
 #### 🌱 Siempre estoy buscando nuevas oportunidades para aprender y crecer como desarrollador.
 
-
+<br>
 
 ## Lenguajes y Tecnologías
 ### Aquí están algunos de los lenguajes y tecnologías que he aprendido y con los que tengo experiencia:
