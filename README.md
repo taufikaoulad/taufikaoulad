@@ -31,7 +31,7 @@
 
 ### Link APP - [Google Play SNKRZ](https://play.google.com/store/apps/details?id=cat.copernic.taufik.snkrz)
 
-Link Repositorio GITHUB:  [Repositorio APP SNKRZ]([https://github.com/taufikaoulad/snkrz))
+Link Repositorio GITHUB:  [Repositorio APP SNKRZ]([https://github.com/taufikaoulad/snkrz)
 
 ### Imagenes APP SNKRZ: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/42765448-55f7-45b8-ba71-ce6dba594bc6) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/ecbbe0d0-f0f7-4c9f-bdb8-ba5b61049872)
@@ -42,7 +42,7 @@ Link Repositorio GITHUB:  [Repositorio APP SNKRZ]([https://github.com/taufikaoul
 
   ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proyecto de ERP
   
-  Link Repositorio:  [Repositorio ERP Castellers]([https://drive.google.com/file/d/1t9QBiWveO6630mqWF77yWdkxZc87mPEX/view](https://github.com/taufikaoulad/ERP-CASTELLERS-DAM-2))
+  Link Repositorio:  [Repositorio ERP Castellers]([https://drive.google.com/file/d/1t9QBiWveO6630mqWF77yWdkxZc87mPEX/view](https://github.com/taufikaoulad/ERP-CASTELLERS-DAM-2)
   
   <br>
 
