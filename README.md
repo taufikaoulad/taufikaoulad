@@ -33,7 +33,7 @@
 
 ### IMAGENES APP SNKRZ
   
-  ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/924d8234-3b0a-47bf-ab36-cd52cda6f06e){: width="400px"} ![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/9edee3b7-cd36-4a2c-baee-f17582057120){: width="50px" height="auto"}
+![image](https://github.com/taufikaoulad/taufikaoulad/assets/99873563/e7a933c7-7059-43d4-afe2-16913bc9ebc7)
 
 
 
